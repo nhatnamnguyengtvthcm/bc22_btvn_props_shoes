@@ -1,0 +1,29 @@
+/* .card {
+    padding: 50px;
+} */
+/* .card-title{
+    margin-bottom: 10px;
+    height: 10px;
+} */
+
+
+.card-body {
+    height: 100px;
+
+}
+.card-title{
+    height: 50px;
+   
+}
+
+
+@media screen and (max-width: 962px) {
+  h4 {
+    font-size: 16px !important;
+  }
+  button {
+      height:50px;
+      width: 200px;
+  }
+
+}
